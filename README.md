@@ -2,11 +2,10 @@
 
 # Pizza Alert!
 
-**Pay attention to your pizza**
+**Pay attention to your pizza!**
 
 ## מהות המשחק
 
-תארו את הרעיון המרכזי של המשחק שלכם
 (concept) 
 בשלושה-ארבעה משפטים.
 
