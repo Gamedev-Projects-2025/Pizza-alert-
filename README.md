@@ -7,6 +7,8 @@
 ## מהות המשחק
 
 המשחק מיועד לפיתוח על המחשב, או על מסך יותר גדול (כמו למשל מסך טיפולי דוגמת מיירו). המשחק מיועד לאנשים שעברו אירוע מוחי, המתמודדים בעקבותו עם נגלקט (הזנחת צד) - מצב המתאר חוסר מודעות לגירויים המתרחשים בצד אחד של הגוף או המרחב (למשל, מטופל שיכול לא להיות מודע לאנשים או חפצים שנמצאים בצד הפגוע שלו).
+[המחשה למשחק פיצה.pptx](https://github.com/user-attachments/files/17722295/default.pptx)
+
 
 ![WhatsApp Image 2024-11-12 at 20 38 23_719cc5cb](https://github.com/user-attachments/assets/eed62e06-01a6-4be5-bdda-cc7b5aa9b3f6)
 ![WhatsApp Image 2024-11-12 at 20 37 09_a846cc45](https://github.com/user-attachments/assets/6803b83d-9176-4219-852c-f501e8eefc5b)
