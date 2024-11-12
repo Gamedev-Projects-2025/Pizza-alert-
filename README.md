@@ -66,7 +66,9 @@
 
 ## סקר שוק
 [papa louie pizzeria](https://papaspizzeria.io/)
+
 [🍕Work at a Pizza Place - Roblox](https://www.roblox.com/games/192800/Work-at-a-Pizza-Place)
+
 [Pizza Tycoon 1994](https://en.wikipedia.org/wiki/Pizza_Tycoon)
 
 המשותף למשחק שלנו ולמשחקים הללו הינו תהליך הכנת הפיצה אך המשחק שלנו מתמקד בפן הטיפולי של התהליך וניתן לראות זאת בעיצוב התהליך המותאם לתהליך השיקום של המטופל. מטרת המשחק אינה רק הכנת פיצה למען צבירת נקודות אלא שיקום המטופל ומעקב אחרי ההתקדמות שלו בתהליך השיקום.
